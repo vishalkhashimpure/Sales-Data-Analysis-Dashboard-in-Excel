@@ -18,9 +18,10 @@ After completing the analysis, I created different charts to present the results
 8. Interactive Dashboard Development
 In the final stage, I developed an interactive Excel dashboard by bringing together the important charts and sales summaries. The dashboard provides an overview of overall sales performance, regional contributions, product category performance, and salesperson analysis. I organized the charts in a clear format so that users can easily understand the results and compare different business metrics in one place.
 Key Business Insights
-After completing the analysis, I identified several useful insights from the sales dataset.
 
- 1. Overall Sales Performance:
+
+I. After completing the analysis, I identified several useful insights from the sales dataset.
+1. Overall Sales Performance:
 The business generated total sales of approximately 1.33 crore from 501 orders, with a total of 5,492 units sold. This provides an overview of the overall sales performance during the available period.
 
 2. Product Category Performance:

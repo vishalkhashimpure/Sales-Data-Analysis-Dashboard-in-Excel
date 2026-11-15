@@ -20,7 +20,7 @@ In the final stage, I developed an interactive Excel dashboard by bringing toget
 Key Business Insights
 After completing the analysis, I identified several useful insights from the sales dataset.
 
-1. Overall Sales Performance:
+ 1. Overall Sales Performance:
 The business generated total sales of approximately 1.33 crore from 501 orders, with a total of 5,492 units sold. This provides an overview of the overall sales performance during the available period.
 
 2. Product Category Performance:
